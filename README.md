@@ -1,4 +1,3 @@
 # Linux Class Names
-
-1) Bonny Mogollon
+* Bonny Mogollon
 * John Stulich
